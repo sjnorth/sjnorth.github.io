@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Tech fascinates me. So do words. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm searching for ways to blend them together lucratively. I make my present living from writing, but my goal is to eventually make it from web development. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Throughout most of 2015 I've been teaching myself coding basics, including HTML, CSS, Javascript, and WordPress. 
+
+I mainly use free learning resources, e.g. Codeacademy and Free Code Camp, along with the help of various techie friends, in particular the tireless @pkafei.
+
+Her site, [Kurious Koder](http://www.kuriouskoder.com) is worth checking out for some good coding resources and tutorials on Python and data visualisation. 
+
+Over the coming months I'll be writing about my escalating journey into tech-dom, here on this lovely speedy little Jekyll site. 
+
+
+
+
