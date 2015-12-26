@@ -4,6 +4,7 @@ title:  "Jekyll and Me"
 date:   2015-12-26 15:00:47 -0500
 categories: jekyll 
 ---
+![Words meet tech ](/images/macbook.jpg){: .medium-image }
 
 ## It was Christmas Eve and I wanted to cry. 
 
