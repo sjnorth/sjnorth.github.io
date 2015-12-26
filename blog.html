@@ -1,0 +1,21 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+ <div >
+
+  {% for post in site.posts limit:5 %}
+    <article>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="meta">
+        <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+          {% if post.author %}
+          | {{ post.author }}
+          {% endif %}
+      </p>
+    </article>
+      {% unless forloop.last %}
+      {% endunless %}
+  {% endfor %}
+</div>
