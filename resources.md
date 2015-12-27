@@ -24,47 +24,47 @@ WordPress is a good platform to learn, as you can quickly use your knowledge to 
 
 Here, in no particular order, are some resources that I've been using during the last year or so.
 
-### [Codeacademy]("http://codeacademy.com")
+### [Codeacademy](http://.codeacademy.com)
 
 A comprehensive free resource that takes you through the basics. They have an on-screen editor where you can practice code. And they teach a wide variety of different skills.
 
-### [Skillcrush]("http://skillcrush.com")
+### [Skillcrush](http://skillcrush.com)
 
 I followed their WordPress developer track. It cost me around 200 USD. The course took me all the way from the basics into a deep dive, then finally a chance to use my skills on a practice project. It also helped me to learn Git. Well worth considering.
 
-### [Free Code Camp]("http://freecodecamp.com")
+### [Free Code Camp](http://freecodecamp.com)
 
 The best structured free coding school that I've found on the web. They try to replicate the intensive bootcamp experience offered by expensive coding schools.But instead of shelling out 15k USD and moving to New York City, FCC allows you to learn from anywhere. 
 
 The courses are well-structured, focusing on Javascript.Mapping it out like this really helps you understand how the skills fit together. FCC offers good support from a lively community, both on the forums and in-person at worldwide meetups. I used to go to their Coffee & Code meetings in NYC.
 
-### [Zed Shaw's Command Line the Hard Way]("http://cli.learncodethehardway.org/book/")
+### [Zed Shaw's Command Line the Hard Way](http://cli.learncodethehardway.org/book/)
 
 A no-fluff guide to an essential developers skill.
 
 ## Blogs worth reading
 
-[Learn to Code with Me]("http://learntocodewith.me/")
+[Learn to Code with Me](http://learntocodewith.me/)
 
-[Joyce Akiko]("http://www.joyceakiko.com/blog/")
+[Joyce Akiko](http://www.joyceakiko.com/blog/)
 
-[Skillcrush]("http://skillcrush.com/blog/")
+[Skillcrush](http://skillcrush.com/blog/)
 
-[Kurious Koder]("http://kuriouskoder.com")
+[Kurious Koder](http://kuriouskoder.com)
 
-[Zoe Rooney]("http://zoerooney.com/")
+[Zoe Rooney](http://zoerooney.com/)
 
 I'll add more soon...
 
 ## Other useful things 
 
-### [CodePen]("http://codepen.io")
+### [CodePen](http://codepen.io)
 Great tool for code wrangling and seeing instant results with HTML, CSS and Javascript.
 
-### [JSfiddle]("http://jsfiddle.net")
+### [JSfiddle](http://jsfiddle.net)
 As above, but focusing on Javascript.
 
-### [Git for Beginners]("http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1")
+### [Git for Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
 
 Git is notoriously tricky, but I found this tutorial one of the easiest to follow. 
 
