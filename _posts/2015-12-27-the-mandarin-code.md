@@ -17,7 +17,7 @@ The idea of learning something like Chinese is intimidating at first. It seems l
 
 Mandarin and code have a lot in common. Let's unravel some of the similarities. 
 
-### 1. Get past the gatekeepers
+### 1. Elude the gatekeepers
 
 These are the certain types of people who'll tell you "That's REALLY difficult" whenever you express interest in learning Chinese. The same goes for code. This mindset intimidates potential learners. Similarly, you really don't need a huge body of 'prerequisites' (e.g. perfect Chnese tones, or a CS degree) to get started. 
 
