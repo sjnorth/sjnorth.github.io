@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![In Bagan](/images/bagan.jpg){: .medium-image }
+
 # Tech fascinates me. So do words. 
 
 I'm searching for ways to blend them together lucratively. I make my present living from writing, but my goal is to eventually make it from web development. If you're interested, [click here to see my writing and journalism portfolio](http://samanthanorth.com).
