@@ -2,6 +2,24 @@
 layout: default
 ---
 
+<div >
+
+  {% for post in site.posts limit:5 %}
+    <article>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="meta">
+        <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+          {% if post.author %}
+          | {{ post.author }}
+          {% endif %}
+      </p>
+    </article>
+      {% unless forloop.last %}
+      {% endunless %}
+  {% endfor %}
+
+<!-- Previous html -->
+<!---
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
@@ -19,5 +37,5 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+-->
 </div>
