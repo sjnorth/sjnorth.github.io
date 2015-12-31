@@ -5,7 +5,9 @@ date:   2015-12-31 18:00:47 -0500
 categories: life 
 ---
 
-## I may only have one stated resolution for 2016, but I have many goals. 
+![Sky](/images/sky.jpg){: .medium-image }
+
+# I may only have one stated resolution for 2016, but I have many goals. 
 
 Most of them are tech-related. 
 
@@ -15,7 +17,7 @@ Yesterday was an interesting day. Serendipity struck. I was scrolling through my
 
 I glanced over a few of the tweets with mild interest. Then one caught my eye.
 
-![Tweet](/images/tweet.jpg){: .small-image }
+![Tweet](/images/tweet.jpg){: .medium-image }
 
 Intrigued, I tweeted a reply, mentioning that I was based in Istanbul, and asking 'would I be a good fit?' The response was immediate and enthusiastic. 
 
@@ -31,6 +33,8 @@ Right now the Istanbul tech meetup scene is dominated by groups full of Turkish 
 
 That probably wouldn't stop me going, but it would be great to set up a new group where English is the main language.
 
-Watch this space for more in 2016. Happy new year and success to you all.
+Watch this space for more in 2016. 
+
+## Happy new year and success to you all!
 
 
