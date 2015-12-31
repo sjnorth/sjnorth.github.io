@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samantha North</title>
+    <description>Journalist focusing on where tech collides with the written word. Jekyll addict. Mandarin speaker. 
+</description>
+    <link>http://sjnorth.github.io/</link>
+    <atom:link href="http://sjnorth.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 31 Dec 2015 17:23:00 -0500</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2015 17:23:00 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Breaking Out</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/fireworks.jpg&quot; alt=&quot;Fireworks&quot; class=&quot;medium-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;when-i-was-22-i-moved-to-an-unfamiliar-city-in-a-completely-foreign-country&quot;&gt;When I was 22 I moved to an unfamiliar city in a completely foreign country.&lt;/h1&gt;
+
+&lt;p&gt;No-one spoke my language and I didn’t speak a word of theirs.&lt;/p&gt;
+
+&lt;p&gt;I felt terribly alone at the beginning. Culture shocked, I missed home and family. I intended to stay for only three months.&lt;/p&gt;
+
+&lt;p&gt;But in the end I never really went back. Instead, I ended up wandering the world for the next ten years.&lt;/p&gt;
+
+&lt;p&gt;I got used to the unknown, to always being the outsider, the foreigner. And I found my friends among the circles of other outsiders. Now I sit in the home of one of those friends, nomadic and unfettered as always, writing this while the turbulent year of 2015 winds down to its final moments. Soon it will be just another memory in the ever-growing parade.&lt;/p&gt;
+
+&lt;p&gt;It’s been a wild year, with many successes. I suppose I should be thankful for that. This has been the year when I’ve seen more of the world than ever before. I’ve broken out of some comfort zones.&lt;/p&gt;
+
+&lt;p&gt;The last few months spent in America have been a relatively small chapter in my decade-long odyssey. In a few days I will return to Istanbul, the tangled city where I found a temporary home. But now that home is starting to feel stifling. The environment is stagnant, with scarce opportunities for the things I really want to do.&lt;/p&gt;
+
+&lt;p&gt;So in 2016 it’s time to move on, to find a place with more dynamism where I can grow my career. Whether that will be London, New York, Berlin or someplace else altogether, remains to be seen. I could write the same old list of new year’s resolutions, predictable, meaningless, and quickly abandoned. But to save myself that fruitless exercise, I’ll stick to just one.&lt;/p&gt;
+
+&lt;p&gt;As Einstein may (or may not) have said: &lt;em&gt;“Insanity is doing the same thing over and over again and expecting different results.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So that’s my single resolution for 2016.&lt;/p&gt;
+
+&lt;h2 id=&quot;do-things-differently&quot;&gt;Do things differently.&lt;/h2&gt;
+</description>
+        <pubDate>Wed, 30 Dec 2015 18:00:47 -0500</pubDate>
+        <link>http://sjnorth.github.io/life/2015/12/30/breaking-out.html</link>
+        <guid isPermaLink="true">http://sjnorth.github.io/life/2015/12/30/breaking-out.html</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>From Go Daddy to No Daddy</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/clouds.jpg&quot; alt=&quot;Clouds in sky&quot; class=&quot;medium-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;its-time-to-ditch-godaddy&quot;&gt;It’s time to ditch GoDaddy.&lt;/h1&gt;
+
+&lt;p&gt;My domain name registrar will soon be no more. GoDaddy has a terrible user interface, stuffed full of ads and flashing things. It’s counter-intuitive to navigate and just plain off-putting.&lt;/p&gt;
+
+&lt;p&gt;I decided to finally cut loose after I learned about the sexist habits of the world’s largest registrar. We’d had a shaky relationship for years. This was the final straw.&lt;/p&gt;
+
+&lt;p&gt;A friend drew my attention to the video of GoDaddy’s Superbowl ad. The ad featured a classically nerdy guy making out with an attractive woman, complete with an array of unpleasant slobbering sounds.&lt;/p&gt;
+
+&lt;p&gt;Disgusted, I switched off after just a few seconds. For starters, it’s a terrible ad. On top of that, it’s pretty damn sexist. I’m not going to pollute my site by posting the video here. If you’re still curious, it’s on YouTube.&lt;/p&gt;
+
+&lt;p&gt;Turns out, a lot of people have already written about all the reasons why using GoDaddy is a bad idea. &lt;a href=&quot;https://karveldigital.com/why-i-dont-use-godaddy-you-shouldnt-either/&quot;&gt;Here’s one.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So I’m moving to a new registrar. Hover. They offer a ‘valet transfer’ service, designed for maximum convenience when bringing your domain into their fold. I haven’t completed the process yet, as I’ve only just put in the request. But hopefully it’ll go as smoothly as interactions so far have suggested.&lt;/p&gt;
+
+&lt;p&gt;Encouragingly, the Hover website is cleanly designed and functional. All the necessary information is clearly laid out. There’s a live chat option where an efficient customer service agent answered all my questions in rapid succession.&lt;/p&gt;
+
+&lt;p&gt;After switching my main domain name over to Hover, I plan to go a step further and ditch my hosting provider. I’m currently paying a few dollars a month for shared hosting with a Manchester-based provider. Service is friendly and adequate. But the hosting is fairly slow, and plus - why pay when you can get the same thing for free?&lt;/p&gt;
+
+&lt;p&gt;I’m planning to host my site on OpenShift, a free cloud-based hosting provider. It’s somewhat heavier on the techie side, but I’m confident I can figure things out with a bit of tinkering.&lt;/p&gt;
+
+&lt;h2 id=&quot;hover--openshift--jekyll--a-new-era-of-website-management-for-me-in-2016&quot;&gt;Hover + OpenShift + Jekyll = a new era of website management for me in 2016!&lt;/h2&gt;
+
+</description>
+        <pubDate>Tue, 29 Dec 2015 13:54:47 -0500</pubDate>
+        <link>http://sjnorth.github.io/jekyll/2015/12/29/from-go-daddy-to-no-daddy.html</link>
+        <guid isPermaLink="true">http://sjnorth.github.io/jekyll/2015/12/29/from-go-daddy-to-no-daddy.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>The Mandarin Code</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/chinese.jpg&quot; alt=&quot;Chinese writing &quot; class=&quot;medium-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;你会说中文吗？&lt;/h1&gt;
+
+&lt;h2 id=&quot;gobbledegook-not-necessarily&quot;&gt;Gobbledegook? Not necessarily.&lt;/h2&gt;
+
+&lt;p&gt;People often ask me what it’s like to learn Chinese. They tend to assume I’m either a linguistic talent or unusually dedicated. I’m neither.&lt;/p&gt;
+
+&lt;p&gt;The idea of learning something like Chinese is intimidating at first. It seems like an impossible challenge. Many who attempt it give up at the first hurdle.&lt;/p&gt;
+
+&lt;p&gt;Mandarin and code have a lot in common. Let’s unravel some of the similarities.&lt;/p&gt;
+
+&lt;h3 id=&quot;elude-the-gatekeepers&quot;&gt;1. Elude the gatekeepers&lt;/h3&gt;
+
+&lt;p&gt;These are the certain types of people who’ll tell you “That’s REALLY difficult” whenever you express interest in learning Chinese. The same goes for code. This mindset intimidates potential learners. Similarly, you really don’t need a huge body of ‘prerequisites’ (e.g. perfect Chnese tones, or a CS degree) to get started.&lt;/p&gt;
+
+&lt;h3 id=&quot;check-your-ego-at-the-door&quot;&gt;2. Check your ego at the door&lt;/h3&gt;
+
+&lt;p&gt;Do you get mad every time someone corrects your pronunciation? I once had a problem saying the Mandarin word for ‘student’. One day, a Chinese yarn seller at a local market called me out on it. She repeated the correct word about six times. I never forgot how to say it after that.&lt;/p&gt;
+
+&lt;p&gt;If your code gets corrected by someone who knows more than you do, just listen to them and take the corrections on board. Don’t take it personally! There’s no room for prima donnas in this field.&lt;/p&gt;
+
+&lt;h3 id=&quot;be-prepared-to-fail&quot;&gt;3. Be prepared to fail&lt;/h3&gt;
+
+&lt;p&gt;Fail and fail hard. And get used to it, because failure will be the order of the day from now on. Hopefully, you’ll soon become immune to it.&lt;/p&gt;
+
+&lt;p&gt;The same applies both for coding and learning to speak a challenging language. You’ll feel like an idiot at first. People will constantly misunderstand. Then, little by little, you’ll start to see the light.&lt;/p&gt;
+
+&lt;h3 id=&quot;dive-in-head-first&quot;&gt;4. Dive in head first&lt;/h3&gt;
+
+&lt;p&gt;The best way to learn fast is by doing. Don’t hang around for months just learning grammar and vocabulary. Get out there and start speaking to shop assistants, waiters, taxi drivers and so on. Whatever little you know, start using it.&lt;/p&gt;
+
+&lt;p&gt;If you’re coding, no need to spend ages memorising all that stuff on Codeacademy. Just find a project you’re interested in and get out there and build it. Google for help as you go along. Or ask people. You’ll get there in the end.&lt;/p&gt;
+
+&lt;h3 id=&quot;shift-your-mindset&quot;&gt;5. Shift your mindset&lt;/h3&gt;
+
+&lt;p&gt;Learning a so-called difficult skill like Mandarin or coding requires a change in the way you think. Be a problem-solver and approach challenging issues from a place of curiosity. View failure as both inevitable and also as a chance to learn. Take criticism and enjoy it. And most of all, don’t be intimidated. People have been learning these skills for years. You can do it too.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Dec 2015 17:03:47 -0500</pubDate>
+        <link>http://sjnorth.github.io/mandarin/2015/12/27/the-mandarin-code.html</link>
+        <guid isPermaLink="true">http://sjnorth.github.io/mandarin/2015/12/27/the-mandarin-code.html</guid>
+        
+        
+        <category>mandarin</category>
+        
+      </item>
+    
+      <item>
+        <title>Jekyll and Me</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/macbook.jpg&quot; alt=&quot;Words meet tech &quot; class=&quot;medium-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;it-was-christmas-eve-and-i-wanted-to-cry&quot;&gt;It was Christmas Eve and I wanted to cry.&lt;/h2&gt;
+
+&lt;p&gt;Yet again, my WordPress site was driving me nuts. My new theme, Avada, was turning out to be a bloated mess. Everyone had given it high praise, but I was unimpressed.&lt;/p&gt;
+
+&lt;p&gt;All I’d wanted to do was to add a large image header with a text overlay to the front page of my site. But no, not in Avada. It seemed the only way to do this was by using sliders. These dreaded Javascript heavy things slow down page loading time and cause problems for the whole site.&lt;/p&gt;
+
+&lt;p&gt;I didn’t see any other way to get the job done, short of coding the whole thing by myself. So I begrudgingly created a slider for each page. They looked pretty good once I’d got them up there. But when I tested the site speed I was appalled to see how long it took to load.&lt;/p&gt;
+
+&lt;p&gt;I had to take action. I ran a few tweaks to improve the speed. Just when I thought it was working - boom! The front page of my site had suddenly turned into garbage text. GRR!&lt;/p&gt;
+
+&lt;p&gt;That was it. I slammed the laptop shut and took a few deep breaths…&lt;/p&gt;
+
+&lt;p&gt;My disillusionment with WordPress had been growing for a while. I liked the look and feel of the platform. It has amazing capabilities and can handle almost any type of website need. But third-party themes and plugins are often problematic. And the admin panel of WordPress is sluggish and kind of ugly. There had to be another solution out there.&lt;/p&gt;
+
+&lt;p&gt;When I found out about Jekyll I was instantly intrigued.A lightweight speedy blogging platform written in Markdown and hosted on GitHub (for free)? It sounded great. No more dealing with annoyances such as hosts, servers, FTP, databases, or those pesky themes and plugins!&lt;/p&gt;
+
+&lt;p&gt;Check out how fast this site can switch from one page to another. It’s like a breath of fresh air! In my nest post I’m going to share the resources that helped me to get Jekyll working.&lt;/p&gt;
+
+&lt;p&gt;It’s a bit of a learning curve, involving setting up a Ruby environment, using the Terminal, and pushing code to github. This can be scary for wannabe and semi-wannabe techies like me.&lt;/p&gt;
+
+&lt;p&gt;But if you get past the scary stuff you’ll be pleasantly surprised. It’s actually quite straightforward. You’ll feel a real sense of achievement when you get this blazing fast site up and running.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/sjnorth/sjnorth.github.io&quot;&gt;Click here to view my Jekyll repo on GitHub&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 26 Dec 2015 15:00:47 -0500</pubDate>
+        <link>http://sjnorth.github.io/jekyll/2015/12/26/jekyll-and-me.html</link>
+        <guid isPermaLink="true">http://sjnorth.github.io/jekyll/2015/12/26/jekyll-and-me.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Conquering Fears</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/birds.jpg&quot; alt=&quot;Birds on wire&quot; class=&quot;medium-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;its-rare-that-i-feel-compelled-to-write-two-blog-posts-in-one-day&quot;&gt;It’s rare that I feel compelled to write two blog posts in one day.&lt;/h1&gt;
+
+&lt;p&gt;Today’s one of those days.&lt;/p&gt;
+
+&lt;p&gt;After spending a substantial amount of time gazing lovingly at my single blog post, I realised that it looked a bit lonely. It needed a companion.&lt;/p&gt;
+
+&lt;p&gt;Also, today was an important milestone. Two of the scariest, yet most crucial, aspects of learning to code have suddenly become much clearer for me. And it’s all thanks to Jekyll.&lt;/p&gt;
+
+&lt;p&gt;For a newbie coder, the command line and Git are two of the most intimidating things you’ll have to deal with.&lt;/p&gt;
+
+&lt;p&gt;Their stripped down, unforgiving interfaces are just daring you to make an error that will crash your entire machine. When you mis-type something they get upset and throw out strange and incomprehensible commands in computer-speak.&lt;/p&gt;
+
+&lt;p&gt;During today’s Jekyll setup I’ve made extensive use of the command line to get the structure ready. I’ve become familiar with cd, mkdir, pwd, ls, cp, and even the scary rm. I’ve also been forced to use Git.&lt;/p&gt;
+
+&lt;p&gt;Every time I made a change to the website I had to add, commmit, and push the changes up to the GitHub server. Without doing this, the blog wouldn’t show up on the internet. And to get it done, Git was the only choice. That meant going back to the command line.&lt;/p&gt;
+
+&lt;p&gt;The more I did it the more fun and easy it became. Soon I was racing through my git commits. I’m glad Jekyll threw me in at the deep end. I feel far more confident than ever before at using these important web dev tools.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2015 11:35:47 -0500</pubDate>
+        <link>http://sjnorth.github.io/git/2015/12/26/conquering-fears.html</link>
+        <guid isPermaLink="true">http://sjnorth.github.io/git/2015/12/26/conquering-fears.html</guid>
+        
+        
+        <category>git</category>
+        
+      </item>
+    
+  </channel>
+</rss>
