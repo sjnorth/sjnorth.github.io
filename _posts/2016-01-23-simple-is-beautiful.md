@@ -20,7 +20,7 @@ Using Bootstrap, I could put together a one-page website with quite striking eas
 
 Here's a sample homepage:
 
-![Homepage](/images/bootstrap.jpg){: .medium-image }
+![Homepage](/images/bootstrap.png){: .medium-image }
 
 Bootstrap is highly responsive thanks to its clever grid system. I put some time and effort into understanding how the grid works, as this seemed to be the key to effcient website building with Bootstrap in future. At some point I'll figure out how to jazz up this Jekyll site with a touch of Bootstrap magic. 
 
