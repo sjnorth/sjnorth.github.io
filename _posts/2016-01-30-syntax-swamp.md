@@ -26,7 +26,7 @@ I've studied online before, for my journalism diploma. I did part of the course 
 
 Ronin doesn't just take anyone. They/ve got a strict selection process. My interview will happen in March. In preparation for it, the guys at Makers Academy emailed me a list of study resources. 
 
-So it was all Ruby. I didn't know the language but I was curious. The recommended book, Learn to Program by Chris Pine, was an excellent start. It's clear, practical and with a touch of humour. I wrote lots of little programs from the very first chapter on. That was very satisfying. 
+So it was all Ruby. I didn't know the language but I was curious. The recommended book, Learn to Program by Chris Pine, was an excellent start. It's clear, practical and has a touch of humour. I wrote lots of little programs from the very first chapter on. That was very satisfying. 
 
 As for Ruby itself, it's a breath of fresh air. People talk Ruby up a lot. I even considered learning it last year as my first language. I eventually chose JavaScript, but I can totally understand why people recommend Ruby. 
 
@@ -34,7 +34,7 @@ The Ruby syntax is clean and friendly. It's designed to feel natural and to be a
 
 After reading a few chapters of Chris Pine's book, I was able to write simple programs in Ruby. The book enabled me to do this with more autonomy than just copying the syntax in Codeacademy. Importantly, I understood exactly what I was doing and why I was doing it that way. That's huge! 
 
-Learning the basics of Ruby has got me back on track. I now feel more capable of understanding programming, without being weighed down by syntax.
+Learning the basics of Ruby has got me back on track. I now feel more capable of understanding programming, without being weighed down by complex syntax.
 
  When I pick up JavaScript again, hopefully things will make more sense. It's still going to be a long journey, but I've made an important step in the right direction.
 
