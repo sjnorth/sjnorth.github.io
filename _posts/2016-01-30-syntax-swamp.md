@@ -32,7 +32,7 @@ As for Ruby itself, it's a breath of fresh air. People talk Ruby up a lot. I eve
 
 The Ruby syntax is clean and friendly. It's designed to feel natural and to be as close to human language as possible. So there are none of those dreaded semi-colons and other things that plague JavaScript learners. 
 
-After reading a few chapters of Chris Pine's book, I was able to write simmple programs in Ruby. The book enabled me to do this with more autonomy than just copying the syntax in Codeacademy. Importantly, I understood exactly what I was doing and why I was doing it that way. That's huge! 
+After reading a few chapters of Chris Pine's book, I was able to write simple programs in Ruby. The book enabled me to do this with more autonomy than just copying the syntax in Codeacademy. Importantly, I understood exactly what I was doing and why I was doing it that way. That's huge! 
 
 Learning the basics of Ruby has got me back on track. I now feel more capable of understanding programming, without being weighed down by syntax.
 
