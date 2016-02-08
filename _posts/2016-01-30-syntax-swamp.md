@@ -8,7 +8,7 @@ categories: tech
 
 ![Swamp](/images/swamp.jpg){: .medium-image }
 
-##Sigh. Yet another error message in JavaScript. 
+## Sigh. Yet another error message in JavaScript. 
 
 I've tried so many ways to study JavaScript. I've found a few that work ok for me. But just ok. Nothing special. Learning vanilla JavaScript feels like dragging myself through a muddy swamp.
 

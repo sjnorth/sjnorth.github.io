@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pairing up for success"
+title:  "Pairing up for Success"
 post_author: Samantha North
 date:   2016-02-07 15:00:47 +0200
 categories: tech 
@@ -8,7 +8,7 @@ categories: tech
 
 ![Cats](/images/cats.jpg){: .medium-image }
 
-##It's true what they say, two heads really are better than one. 
+## It's true what they say, two heads really are better than one. 
 
 I freaked out the first time I looked at CodeWars. I was fresh from six months of JavaScript self-study. As it turned out, the knowledge I'd shoehorned so painstakingly into my brain was suddenly nowhere to be found. It had abandoned me. 
 
@@ -18,11 +18,11 @@ My attitude to programming has changed today after completing the Ronin taster d
 
 Let me explain how today's taster day worked. The entire day's programme lasted six hours, which seemed like a lot at first. But once the first hour had flown by, I was still feeling highly motivated and ready for the rest. 
 
-With me were eleven participants from around the world, all brought together via video-conferencing. The Makers Academy host, Jordan, started us off with a stand-up, basically where everyone introduced themselves and talked briefly about their goals for the day. Jordan told us what to expect from the rest of the day, and explained how the Ronin programme worked. 
+With me were eleven participants from around the world, all brought together via video-conferencing. The Makers Academy host, Jordan, started us off with a stand-up session, in which everyone introduced themselves and their goals for the day. Jordan explained how Ronin works and what we could expect from the event. 
 
-But more importantly, Jordan told us what the Ronin programme isn't. It's not a course in JavaScript or Ruby, although those skills are taught in depth. The stated goal of Ronin is to teach its students to adopt a new mindset. It teaches them to think like programmers.   
+But more importantly, he explained what the Ronin programme isn't. It's not a course in JavaScript or Ruby, although those skills are taught in depth. The overall goal of Ronin is to teach its students to adopt a new mindset. It teaches them to think like programmers.   
 
-I've been struggling with this for a long time, even while being aware of it. Even though I've learned difficult things from scratch (Mandarin, for example), there's something about talking (and writing) in computer-friendly languages that still feels overly abstract and hence hard to relate to. But to learn programming, one must learn to be comfortable in the unknown. 
+I've been struggling with this for a long time, even while being aware of it. Although I've learned difficult things from scratch before (Mandarin, for example), there's something about talking (and writing) in computer-friendly languages that feels overly abstract and hard to relate to. But to learn programming, one must learn to be comfortable in the unknown. 
 
 At least I already know that memorising syntax is NOT the way to become a good programmer. As my succesful self-taught programmer friends tell me, Google is there for a reason. I fully agree. I mean, why make life harder?
 
