@@ -8,7 +8,7 @@ categories: tech
 
 ![Cats](/images/cats.jpg){: .medium-image }
 
-## It's true what they say, two heads really are better than one. 
+It's true what they say, two heads really are better than one. 
 
 I freaked out the first time I looked at CodeWars. I was fresh from six months of JavaScript self-study. As it turned out, the knowledge I'd shoehorned so painstakingly into my brain was suddenly nowhere to be found. It had abandoned me. 
 
