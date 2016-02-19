@@ -12,7 +12,7 @@ Most of the time my best ideas come when I'm away from my desk.
 
 Freeing the mind and allowing it to wander sparks all kinds of random lateral connections, that may not otherwise occur when the mind is bullied into focus.  
 
-Yesterday I was running along the seafront here in Istanbul, while pondering on the progress I'd made with my 5K training. I've had a love/hate relationship with running for years. I love it because it's the simplest and most minimalist way to get exercise. 
+Yesterday I was running along the seafront here in Istanbul, while pondering on the progress I'd made with my 5K training. I've had a love/hate relationship with running for years. I love it because it's the simplest way to exercise. 
 
 It's good for cognitive function and has a host of other benefits. But at the same time it makes me restless and bored. I never really got beyond twenty minute light jogs, interspersed with side pain and moments of absolute tedium. Over Christmas I went running with a friend in DC, only to find that I was out of practice and could barely keep up. 
 
