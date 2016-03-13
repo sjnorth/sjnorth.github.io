@@ -38,6 +38,14 @@ The best structured free coding school that I've found on the web. They try to r
 
 The courses are well-structured, focusing on Javascript.Mapping it out like this really helps you understand how the skills fit together. FCC offers good support from a lively community, both on the forums and in-person at worldwide meetups. I used to go to their Coffee & Code meetings in NYC.
 
+### [The Odin Project](http://www.theodinproject.com/courses)
+
+The full bootcamp experience, including Rails, Javascript and a host of other skills, delivered from the comfort of your browser. Created by a graduate of one of the biggest on-site bootcamps in the US. Most importantly, all material on the Odin Project is freely available.
+
+### [Treehouse](http://www.teamtreehouse.com)
+
+A plethora of online courses can be found here, with regular updates amid a vibrant community. Treehouse has a diverse curriculum that includes tech career advice along with topics on starting your own business. The site also offers topics covering a wide range of the latest and greatest technologies. 
+
 ### [Zed Shaw's Command Line the Hard Way](http://cli.learncodethehardway.org/book/)
 
 A no-fluff guide to an essential developers skill.
