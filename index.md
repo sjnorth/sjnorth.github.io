@@ -6,17 +6,15 @@ layout: default
 
 # Tech fascinates me. So do words. 
 
-I'm searching for ways to blend them together lucratively. I make my present living from writing, but my goal is to eventually make it from web development. If you're interested, [click here to see my writing and journalism portfolio](http://samanthanorth.com).
+## I'm searching for ways to blend the two together. 
 
-I've lived abroad for over ten years, in China, Belgium, Qatar and Turkey. The constant need to adapt to new cultures and working environments has turned me into a much better problem-solver. That helps me a lot when wrangling new stuff in tech. 
+At the moment, I make a living from journalism, but my goal is to move into full-time web development. Here's some of the stuff I've written. [Click here to view my journalism portfolio](http://samanthanorth.com).
 
-Throughout most of 2015 I've been teaching myself web dev basics, including HTML, CSS, Javascript, and WordPress. 
+For the last ten years I've lived around the world, in China, Belgium, Qatar and Turkey. That constant need to adapt to new cultures and environments has made me a better problem-solver, which helps a lot when wrangling with knarly tech issues. 
 
-I mainly use free learning resources, e.g. Codeacademy and Free Code Camp, along with the help of various techie friends, in particular the tireless @pkafei.
+Since early 2015 I've been teaching myself web development. I'm focusing on HTML, CSS, jQuery, Javascript, Ruby, Rails and WordPress. I'm excited about joining my very first open-source project, with the nice folks at [Hoodie](http://hood.ie). More on that to follow...
 
-[The Geeky Hustle](http://thegeekyhustle.com) is worth checking out for some good coding resources and tutorials on Python and data visualisation. 
-
-Over the coming months I'll be writing about my escalating journey into tech-dom, here on this lovely speedy little Jekyll site.
+I write here about my various forays into the world of tech, my struggles and my triumphs.  
 
 
  
