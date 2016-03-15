@@ -52,13 +52,15 @@ A no-fluff guide to an essential developers skill.
 
 ## Blogs worth reading
 
+[Mackenzie Child](http://mackenziechild.me/)
+
 [Learn to Code with Me](http://learntocodewith.me/)
 
 [Joyce Akiko](http://www.joyceakiko.com/blog/)
 
 [Skillcrush](http://skillcrush.com/blog/)
 
-[Kurious Koder](http://kuriouskoder.com)
+[The Geeky Hustle](http://thegeekyhustle.com)
 
 [Zoe Rooney](http://zoerooney.com/)
 
