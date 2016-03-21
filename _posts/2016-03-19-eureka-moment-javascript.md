@@ -26,23 +26,23 @@ Soon I could write my own functions with full understanding of why I was taking 
 
 ## So what makes JavaScript Basics more effective than the other courses I've tried?
 
-1. Puts code into context
+**Puts code into context**
 <br />
 When explaining functions, for example, Dave goes through each line of code and explains how it all fits together.This added context helped me a lot. This is often missing from online learn to code resources, which tend to get students completing isolated code challenges, without gaining understanding of the whole. 
 
-2. Gives the full picture
+**Gives the full picture**
 <br />
 In JavaScript Basics, each new concept builds on the ones taught before. When it was time to move on to the next topic, I was fully equipped with all the necessary knowledge. No key pieces of information were lacking.  
 
-3. Uses real-life examples
+**Uses real-life examples**
 <br />
 Dave illustrated the concept of functions using the example of his assistant bringing him coffee. The assistant receives the same set of instructions (the function) every day: "Bring me my coffee", with minor variations on the type of coffee, e.g. latte, frappuccino, espresso, or iced tea. These variations can be likened to a JavaScript function receiving different arguments. 
 
-4. Offers just enough guidance 
+**Offers just enough guidance** 
 <br />
 Some courses leave students floundering, while others spoon-feed them everything. JavaScript Basics provides just enough guidance for the student to confidently tackle problems on their own, with a full video walk-through solution available if needed. 
 
-5. Includes fast, friendly forums
+**Includes fast, friendly forums**
 <br />
 I asked, they answered, within minutes. The folks in the Treehouse community are generally supportive and usually ask constructive questions that others can learn from. 
 
