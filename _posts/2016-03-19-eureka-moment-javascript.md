@@ -6,11 +6,13 @@ date:   2016-03-19 15:00:47 +0200
 categories: tech 
 ---
 
-# There's no escaping the almighty JavaScript. 
+## There's no escaping the almighty JavaScript. 
 
-As the first language of all browsers, it powers most of the web. That alone makes it a necessary evil for budding front-end devs. 
+As the first language of all browsers, it powers most of the web. That alone makes JavaScript a necessary evil for any budding developer. 
 
-For many months now I've been struggling to master the basics of JavaScript. I gave up completely for a while, trying to gain proficiency in jQuery instead. But my lack of ability in JavaScript still held me back from full understanding. 
+But it doesn't have to be totally evil...
+
+For many months now I've been struggling to master JavaScript. I gave up completely for a while, trying to gain proficiency in jQuery instead. But my lack of ability in basic JavaScript still held me back from full understanding. 
 
 I didn't give up on JavaScript without a fight. I tried many resources to learn it - from Codecademy to Free Code Camp, from various YouTube tutorials to Jon Duckett's JavaScript and jQuery book. All these materials are of value, but somehow the concepts refused to come together in my mind. I could get through the code challenges, but was at a loss when it came to writing my own methods and functions.  
 
@@ -39,5 +41,7 @@ Some courses leave students floundering, while others spoon-feed them everything
 5. Includes fast, friendly forums
 I asked, they answered, within minutes. The folks in the Treehouse community are generally supportive and usually ask constructive questions that others can learn from. 
 
+Treehouse has tons of courses and very affordable monthly subscription rates. Check out my referral link and [try out Treehouse for free](http://referrals.trhou.se/samanthanorth).  
 
+I hope you get your Eureka moment too! 
 
