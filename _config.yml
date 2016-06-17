@@ -9,7 +9,7 @@
 title: From Bylines to Binary 
 email: samanthajmnorth@gmail.com
 description: > # 
-  Journalist focusing on the intersection of tech and the written word. Jekyll addict. Mandarin speaker. 
+  Journalist focusing on the intersection of tech and the written word. Rails fan. Mandarin speaker. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sjnorth.github.io" # the base hostname & protocol for your site
 twitter_username: placesbrands
@@ -17,3 +17,4 @@ github_username: sjnorth
 
 # Build settings
 markdown: kramdown
+permalink: pretty
