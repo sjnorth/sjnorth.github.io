@@ -17,4 +17,4 @@ github_username: sjnorth
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title 
